@@ -1,2 +1,2 @@
-# HomeWorks_ArkadiyDolgonos
+# HomeWorks_BorysTyschenko
 Repository for LevelUp' homeworks
